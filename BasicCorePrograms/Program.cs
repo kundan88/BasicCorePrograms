@@ -7,7 +7,7 @@ namespace BasicCorePrograms
     {
         public static void Main(string[] args)
         {
-            QuotientAndRemainder.QuotAndRem();
+            SwapTwoNumber.SwapNumbers();
         }
     }
 }
