@@ -7,9 +7,7 @@ namespace BasicCorePrograms
     {
         public static void Main(string[] args)
         {
-            FlipCoin.CalFlipCoin();
-            FlipCoin.DisplayFlipCoin();
-           
+            LeapYear.leapYear();
         }
     }
 }
