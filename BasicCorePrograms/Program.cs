@@ -7,7 +7,7 @@ namespace BasicCorePrograms
     {
         public static void Main(string[] args)
         {
-            PrimeFactor.Factor();
+            QuotientAndRemainder.QuotAndRem();
         }
     }
 }
