@@ -7,7 +7,7 @@ namespace BasicCorePrograms
     {
         public static void Main(string[] args)
         {
-            SwapTwoNumber.SwapNumbers();
+            EvenOddNumber.EvenOddNum();
         }
     }
 }
